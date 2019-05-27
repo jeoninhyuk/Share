@@ -4,3 +4,12 @@
 집중하자
 
 sjanwhfflek
+
+
+>> download
+$ git pull
+
+>> sending
+$ git add . # all
+$ git commit -m "libby"
+$ git push
